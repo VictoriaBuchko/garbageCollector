@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "garbageCollector", "ConsoleApp3\garbageCollector.csproj", "{45753E1E-DF28-48A2-B3DA-482763BD899F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45753E1E-DF28-48A2-B3DA-482763BD899F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45753E1E-DF28-48A2-B3DA-482763BD899F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45753E1E-DF28-48A2-B3DA-482763BD899F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45753E1E-DF28-48A2-B3DA-482763BD899F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E1BED9-2BF6-4576-9484-9BDE5F70E688}
+	EndGlobalSection
+EndGlobal
